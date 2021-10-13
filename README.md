@@ -1,2 +1,2 @@
-# Several_mini_projects
+# Picture gallery
 I study and perform mini-tasks .
